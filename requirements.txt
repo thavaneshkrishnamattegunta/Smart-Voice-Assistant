@@ -1,0 +1,1 @@
+-r Smart-Voice-Assistant-Internship-main/smart_voice_assistant-main/smart_voice_assistant-main/requirements.txt
